@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**Waldij/Waldij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey! :wave: 
 
-Here are some ideas to get you started:
+I'm Vladislav. And I'm still studying at the Moscow Institute of Physics and Technology. 
+Since childhood, I love to automate everything, even once with the team we won the European competition in robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a QA Automation intern at [Align Technology inc.](https://www.aligntech.com/)
+- I usually write in Python, sometimes I use something like C# or JS.
+- In my free time, I compose music :musical_note: (mostly around the rock or metal genre :guitar:) 
+
+📫 How to reach me: 
+- :e-mail: [golubnichij.ve@phystech.edu](mailto:golubnichij.ve@phystech.edu)
+- [LinkedIn](https://linkedin.com/in/waldij)
+- [Telegram](https://t.me/Waldij)
+
+***
+
+### My stack of technologies:
+
+Programming languages: Python, С#
+
+Frameworks and other tools: Flask(flasgger), Git (Bitbucket), JIRA, Bamboo, Docker
+
+DB: SQL, ORM SQLAlhemy, Postgresql.
+
+QA: Selenium, Behave, Postman, Splunk, JIRA, Catchpoint
+
+***
+
+Since we use bitbucket at my current job, my activity on github is not very high.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Waldij&show_icons=true&theme=dracula)
+
