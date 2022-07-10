@@ -23,7 +23,7 @@ Frameworks and other tools: Flask(flasgger), Git (Bitbucket), JIRA, Bamboo, Dock
 
 DB: SQL, ORM SQLAlhemy, Postgresql.
 
-QA: Selenium, Behave, Postman, Splunk, JIRA, Catchpoint
+QA: Selenium, Behave, Postman, Splunk, JIRA + tm4j, Catchpoint
 
 ***
 
