@@ -28,6 +28,3 @@ QA: Selenium, Behave, Postman, Splunk, JIRA + tm4j, Catchpoint
 ***
 
 Since we use bitbucket at my current job, my activity on github is not very high.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Waldij&show_icons=true&theme=dracula)
-
